@@ -1,0 +1,13 @@
+{
+  "name": "pass-qrcode-fxxker",
+  "version": "1.0.0",
+  "main": "src/fxxker.js",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "qrcode": "^1.4.4"
+  },
+  "scripts": {
+    "start": "node src/fxxker.js"
+  }
+}
